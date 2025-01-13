@@ -4,7 +4,7 @@ Royal Restaurant - Web Application '
    The site provides an elegant interface for showcasing menus, restaurant details, and customer-friendly features.
 
 Live Demo 🌐
-https://github.com/Karannannaware/Royal-Restaurant.
+https://royalrestaurantpune.netlify.app//
 
 Features ✨
 Responsive Design: Optimized for desktop, tablet, and mobile devices.
