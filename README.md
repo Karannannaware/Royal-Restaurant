@@ -1,54 +1,33 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
+<div align="center"> <br /> <br /> <h2 align="center">Royal Restaurant - Modern Web Application</h2>
+Royal Restaurant is a fully responsive and user-friendly restaurant web application, <br />designed to work seamlessly on all devices. Built using HTML, CSS, and JavaScript for an engaging user experience.
 
-  <br />
-  <br />
+<a href="https://royalrestaurantpune.netlify.app/"><strong>➥ Live Demo</strong></a>
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+</div> <br />
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+Live Demo 🌐
+https://royalrestaurantpune.netlify.app/
 
-</div>
+Demo Screenshots 📸
+![Screenshot 2025-01-14 001454](https://github.com/user-attachments/assets/384eaff4-ba26-4f34-a4fa-e61e00a48f34)
 
-<br />
 
-### Demo Screeshots
+Tech Stack 🛠️
+HTML5 & CSS3: For structure and styling.
+JavaScript: Adds interactivity.
+Bootstrap/Tailwind CSS: For responsive and modern UI design.
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+Features ✨
+Responsive design optimized for all devices.
+Dynamic menu display with categorized food items.
+Elegant layout and interactive elements.
+"About Us" and "Contact Us" sections with useful information.
+Easy-to-navigate user interface.
 
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Grilli** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/grilli.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+Contact
+https://karannannaware.netlify.app/
+https://github.com/Karannannaware
+https://x.com/KARANNANNA9427
+mailto: karannannavare3@gmail.com
